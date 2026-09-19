@@ -1,0 +1,501 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,genre,language,imgDB_ratings,votes,budget_million,revenue_million,popularity_score,seasons,Column1
+s1,Movie,Stranger Things,Director A,Australia,2024-04-25,2000,TV-G,110 min,Drama,English,5.6,781646,45.59,52.16,56.9,0,average
+s2,Movie,The Crown,Director B,Germany,2018-08-10,2006,PG,139 min,Mystery,English,8.3,740392,109.16,304.43,69.1,0,good
+s3,Movie,Money Heist,Director A,Spain,2020-09-27,2022,TV-PG,118 min,Horror,French,8.5,112175,51.46,74.09,58.5,0,good
+s4,Movie,Dark,Director E,Spain,2021-02-24,2023,R,143 min,Adventure,Hindi,5.5,312419,24.22,101.65,54.4,0,average
+s5,Movie,Wednesday,Director D,Mexico,2018-07-22,2021,TV-PG,173 min,Action,German,6.2,110907,53.51,48.76,47.9,0,good
+s6,TV Show,Bridgerton,Director C,Mexico,2023-07-08,2006,R,42 min,Animation,German,8.3,176339,75.05,113.98,66.9,2,good
+s7,Movie,The Witcher,Director C,South Korea,2025-03-20,2007,G,79 min,Documentary,Italian,5.5,599731,145.3,314.51,55.7,0,average
+s8,Movie,Narcos,Director D,Spain,2017-07-25,2008,R,106 min,Action,Italian,8.4,454245,134.61,363.72,79.4,0,good
+s9,Movie,Black Mirror,Director D,Australia,2016-07-11,2024,G,89 min,Fantasy,French,8.1,630380,29.21,35.75,54.5,0,good
+s10,Movie,Lucifer,Director C,France,2024-01-31,2021,PG-13,89 min,Sci-Fi,English,6.3,677097,123.34,332.3,47.6,0,good
+s11,TV Show,You,Director C,United Kingdom,2024-07-17,2016,TV-MA,36 min,Horror,German,7.9,643551,105.11,215.84,56.6,2,good
+s12,TV Show,Ozark,Director D,India,2017-04-03,2000,PG-13,48 min,Action,Italian,7.6,87582,32.54,58.95,51.1,5,good
+s13,Movie,The Umbrella Academy,Director F,Canada,2021-12-01,2008,TV-G,152 min,Animation,German,7.5,770388,77.32,110.26,66.6,0,good
+s14,TV Show,Squid Game,Director A,India,2021-01-23,2016,TV-MA,32 min,Thriller,Hindi,7.7,246292,30.84,68.46,65.5,4,good
+s15,Movie,Breaking Bad,Director E,Australia,2016-10-17,2010,G,140 min,Thriller,Italian,6.1,143739,44.36,142.35,56.3,0,good
+s16,TV Show,Peaky Blinders,Director F,India,2017-01-21,2006,TV-MA,31 min,Documentary,German,8.9,61802,45.74,115.57,77.4,7,excellent
+s17,Movie,The Queen's Gambit,Director A,Germany,2018-02-23,2007,TV-14,99 min,Drama,English,6,490100,97.46,111.76,42.7,0,average
+s18,Movie,Sex Education,Director B,France,2025-07-08,2024,TV-MA,105 min,Documentary,French,6.1,425521,31.6,78.81,61.2,0,good
+s19,TV Show,Elite,Director A,Italy,2020-09-28,2009,TV-PG,69 min,Drama,English,9.4,612314,22.8,46.65,83.1,8,excellent
+s20,TV Show,Manifest,Director F,South Korea,2025-07-24,2016,TV-G,58 min,Comedy,Korean,8.9,76849,11.54,33.85,75.3,3,excellent
+s21,Movie,The Night Agent,Director F,Spain,2016-12-01,2019,R,128 min,Crime,Japanese,6.6,278432,119.01,333.75,46.3,0,good
+s22,Movie,The Recruit,Director E,India,2023-03-28,2021,TV-14,113 min,Fantasy,Korean,9.2,14767,83.39,352.17,74,0,excellent
+s23,TV Show,Lupin,Director F,Japan,2019-11-30,2004,TV-MA,29 min,Animation,French,8.8,742715,47.5,69.47,66.6,4,excellent
+s24,Movie,Arcane,Director F,Spain,2018-12-19,2004,R,89 min,Animation,French,5.9,300442,160.37,560.56,51.5,0,average
+s25,TV Show,The Lincoln Lawyer,Director F,Canada,2025-06-27,2008,PG-13,28 min,Adventure,Italian,5.4,354759,77.94,333.84,52,2,average
+s26,TV Show,Extraction,Director E,Japan,2016-02-09,2017,PG-13,32 min,Documentary,Spanish,5.8,42778,113.68,420.88,56.9,2,average
+s27,Movie,Bird Box,Director A,Spain,2020-02-02,2009,TV-G,176 min,Horror,Spanish,6.7,720198,175.05,132.27,48.3,0,good
+s28,Movie,Red Notice,Director D,Mexico,2024-12-20,2005,R,178 min,Crime,Spanish,6,353321,33.52,74.01,57.1,0,average
+s29,Movie,Enola Holmes,Director B,South Korea,2025-10-12,2012,TV-MA,79 min,Animation,Korean,8.7,487662,154.83,227.21,67,0,excellent
+s30,TV Show,The Gray Man,Director A,India,2019-02-15,2010,PG,29 min,Action,French,8.1,889642,45.38,133.39,67.3,5,good
+s31,Movie,Glass Onion,Director E,South Korea,2022-09-09,2003,PG,130 min,Drama,Japanese,7.1,541265,63.53,232.97,47.9,0,good
+s32,Movie,Don't Look Up,Director A,Mexico,2025-01-16,2016,TV-PG,143 min,Horror,German,8.4,211606,124.26,530.22,65,0,good
+s33,Movie,The Adam Project,Director B,France,2019-05-15,2023,TV-G,139 min,Animation,Spanish,6.9,315016,57.05,125.1,58.2,0,good
+s34,TV Show,Damsel,Director D,Germany,2022-02-22,2012,R,25 min,Fantasy,Italian,7.7,691508,38,99.01,58.3,5,good
+s35,Movie,The Platform,Director B,Mexico,2016-12-13,2021,PG,111 min,Thriller,Korean,6.6,863179,93.75,287.67,66.5,0,good
+s36,Movie,Army of the Dead,Director F,Australia,2016-07-08,2000,R,106 min,Adventure,Japanese,8.5,482538,177.14,528.58,67.2,0,good
+s37,TV Show,The Irishman,Director B,Italy,2018-09-26,2012,G,34 min,Drama,Korean,9,821232,107.66,475.2,71.5,1,excellent
+s38,Movie,Roma,Director D,Australia,2017-06-30,2014,TV-G,177 min,Family,Italian,7.6,337711,84.71,226.3,74.5,0,good
+s39,Movie,The Social Network,Director E,Germany,2025-08-29,2023,R,135 min,Crime,Italian,8.8,295782,82.11,290.01,79.1,0,excellent
+s40,Movie,The Intern,Director D,Italy,2019-03-16,2022,PG-13,105 min,Adventure,Korean,7.5,150095,50.37,93.03,52.1,0,good
+s41,Movie,The Karate Kid,Director E,Italy,2020-07-27,2013,TV-MA,117 min,Family,Japanese,6.1,445552,98.58,219,47.3,0,good
+s42,TV Show,The Kissing Booth,Director E,South Korea,2019-12-11,2000,G,44 min,Thriller,French,7,788826,103.15,495.57,63.8,7,good
+s43,TV Show,To All the Boys I've Loved Before,Director B,Australia,2016-04-28,2015,TV-MA,49 min,Documentary,English,8.3,886334,81.92,340.15,67,6,good
+s44,Movie,Murder Mystery,Director C,Spain,2020-10-21,2020,TV-G,92 min,Crime,Japanese,6.3,348254,156.3,204.56,44.1,0,good
+s45,TV Show,The Old Guard,Director A,United States,2021-04-10,2002,R,26 min,Thriller,English,8,824182,119.99,272.36,77.8,1,good
+s46,Movie,6 Underground,Director C,United Kingdom,2017-06-01,2007,TV-14,135 min,Mystery,Spanish,6.1,738442,121.16,339.19,43.7,0,good
+s47,TV Show,The Sea Beast,Director E,Italy,2022-06-28,2003,R,26 min,Comedy,French,6.8,754747,71.22,328.59,47.8,5,good
+s48,Movie,Nimona,Director C,United States,2022-05-07,2025,TV-G,175 min,Family,Italian,8,77306,9.31,24.93,65.7,0,good
+s49,Movie,Klaus,Director F,Canada,2020-01-23,2013,G,156 min,Sci-Fi,Japanese,5.9,189692,160.7,384.55,55,0,average
+s50,TV Show,Over the Moon,Director D,Spain,2025-07-20,2010,TV-MA,40 min,Sci-Fi,German,8.4,602530,37.08,99.87,71.7,2,good
+s51,Movie,The Mitchells vs. the Machines,Director E,United States,2018-05-18,2015,R,120 min,Comedy,Korean,9,740244,144.01,277.55,83.8,0,excellent
+s52,TV Show,The Sea Beast 52,Director D,Italy,2022-03-24,2015,R,40 min,Crime,German,8.6,102573,79.28,226.86,64.7,8,excellent
+s53,TV Show,Glass Onion 53,Director B,Spain,2024-05-13,2013,TV-14,60 min,Adventure,Spanish,6.5,246736,45.46,123,43.3,6,good
+s54,Movie,The Umbrella Academy 54,Director B,Canada,2021-06-06,2023,R,110 min,Romance,Spanish,7.5,301745,130.98,577.46,74.5,0,good
+s55,Movie,Manifest 55,Director F,Germany,2021-12-27,2022,TV-14,91 min,Family,English,7.6,736295,50.83,223.64,74.3,0,good
+s56,TV Show,The Irishman 56,Director A,France,2021-05-14,2015,G,53 min,Comedy,English,9.2,505935,26.2,26.61,64.7,6,excellent
+s57,Movie,Lucifer 57,Director E,South Korea,2022-04-24,2025,TV-G,113 min,Sci-Fi,Italian,7.6,441390,17.16,26.91,65.2,0,good
+s58,TV Show,Manifest 58,Director C,Mexico,2022-05-18,2009,TV-14,64 min,Action,Korean,9.3,222881,75.11,293.56,79.3,1,excellent
+s59,Movie,Ozark 59,Director C,Italy,2016-01-11,2005,G,127 min,Comedy,Korean,6.5,247720,82.19,239.65,47.8,0,good
+s60,Movie,The Queen's Gambit 60,Director B,Canada,2017-04-15,2013,PG,144 min,Sci-Fi,Hindi,6.3,154145,42.02,49.63,40.3,0,good
+s61,TV Show,The Gray Man 61,Director C,United States,2020-07-06,2022,TV-14,42 min,Thriller,English,9,775214,55.34,183.27,68.7,8,excellent
+s62,TV Show,Klaus 62,Director D,India,2016-06-13,2018,G,36 min,Romance,Japanese,6.4,618762,64.68,171.88,51,8,good
+s63,TV Show,The Recruit 63,Director E,United States,2017-03-04,2021,G,35 min,Comedy,German,8,424904,52.34,150.79,74,6,good
+s64,TV Show,The Queen's Gambit 64,Director E,Germany,2024-08-30,2003,G,50 min,Mystery,English,7,201694,80.63,248.25,58,1,good
+s65,TV Show,Squid Game 65,Director B,Italy,2017-06-20,2017,PG-13,43 min,Crime,English,5.3,665626,106.3,301.44,46.8,8,average
+s66,TV Show,Army of the Dead 66,Director F,Canada,2018-07-09,2002,TV-G,32 min,Family,Italian,5.9,756413,113.91,401.01,43.1,8,average
+s67,Movie,Glass Onion 67,Director A,Canada,2022-03-07,2014,TV-G,93 min,Romance,French,7.4,927040,70.28,294.84,50.9,0,good
+s68,TV Show,Stranger Things 68,Director E,France,2019-05-07,2023,G,62 min,Romance,Korean,7.3,353588,104.5,279.59,61.3,8,good
+s69,Movie,The Old Guard 69,Director D,France,2020-04-17,2018,PG-13,104 min,Sci-Fi,English,6.6,500951,154.37,339.93,59.8,0,good
+s70,TV Show,Black Mirror 70,Director B,India,2025-10-20,2003,G,53 min,Mystery,French,8.3,434893,65.48,178.05,77.9,2,good
+s71,TV Show,The Recruit 71,Director A,Australia,2016-11-24,2020,TV-14,46 min,Thriller,French,9,516650,114.73,393.82,83.6,7,excellent
+s72,Movie,Breaking Bad 72,Director A,United States,2017-02-07,2013,TV-PG,172 min,Mystery,English,7.1,732712,114.81,459.59,52.9,0,good
+s73,TV Show,Elite 73,Director E,France,2020-10-30,2011,R,34 min,Sci-Fi,Spanish,8.6,183240,66.08,209.93,61.5,4,excellent
+s74,TV Show,Breaking Bad 74,Director B,India,2018-11-06,2020,G,54 min,Romance,French,7.2,306603,81.69,373.77,63.9,5,good
+s75,TV Show,The Karate Kid 75,Director C,Australia,2018-10-21,2022,PG,54 min,Adventure,French,7.3,253728,27.91,67.42,56.7,5,good
+s76,TV Show,The Crown 76,Director B,Australia,2016-02-03,2008,TV-PG,61 min,Thriller,Korean,8.8,305096,109.72,431.17,79.3,1,excellent
+s77,TV Show,The Intern 77,Director A,Australia,2024-06-21,2021,TV-PG,67 min,Adventure,Spanish,8,328939,77.25,354.91,73.3,3,good
+s78,TV Show,Bridgerton 78,Director C,United Kingdom,2024-05-19,2010,PG,51 min,Family,Italian,9,388629,28.09,115.26,74.3,3,excellent
+s79,TV Show,Elite 79,Director D,Japan,2017-04-16,2025,TV-PG,54 min,Comedy,Japanese,8.9,764396,21.19,102.97,77.4,2,excellent
+s80,TV Show,Stranger Things 80,Director C,India,2017-05-21,2017,R,54 min,Sci-Fi,English,7.7,867367,82.38,298.53,66.8,6,good
+s81,TV Show,The Intern 81,Director B,United States,2018-06-25,2019,TV-MA,66 min,Crime,Italian,8.2,685776,78.07,214.69,64.6,2,good
+s82,Movie,Narcos 82,Director E,France,2025-12-13,2007,PG-13,143 min,Documentary,Hindi,8.1,784238,26.15,61.95,71.6,0,good
+s83,TV Show,Don't Look Up 83,Director F,Spain,2016-05-14,2008,TV-PG,69 min,Drama,Japanese,6.2,385303,29.99,80.01,40.3,6,good
+s84,Movie,Sex Education 84,Director A,Spain,2025-07-05,2003,R,180 min,Action,Korean,8,631152,82.94,264.15,78.2,0,good
+s85,Movie,Wednesday 85,Director C,United Kingdom,2018-06-03,2018,PG-13,179 min,Fantasy,French,5.8,949275,156.81,295.02,50.5,0,average
+s86,Movie,Ozark 86,Director B,Canada,2025-09-18,2021,TV-MA,78 min,Action,Japanese,8.6,622457,25.46,50.85,65.5,0,excellent
+s87,Movie,Damsel 87,Director E,United States,2016-09-17,2023,PG,135 min,Sci-Fi,English,7.8,478962,81.79,164.56,64,0,good
+s88,TV Show,Dark 88,Director B,India,2020-10-12,2012,PG-13,68 min,Crime,German,5.5,89714,61.38,283.62,40.7,2,average
+s89,TV Show,The Lincoln Lawyer 89,Director E,Italy,2021-09-01,2014,R,63 min,Documentary,Italian,8.9,687535,16.41,61.5,82.9,7,excellent
+s90,TV Show,Breaking Bad 90,Director B,Mexico,2025-04-12,2010,G,54 min,Comedy,Hindi,7,702416,52.84,63.37,50.9,7,good
+s91,Movie,Bridgerton 91,Director E,Spain,2017-01-30,2013,TV-14,170 min,Documentary,German,7.6,619953,133.51,502.79,74.6,0,good
+s92,TV Show,To All the Boys I've Loved Before 92,Director A,Spain,2016-07-29,2023,TV-PG,43 min,Comedy,French,6.1,693637,45.44,146.65,49.8,5,good
+s93,Movie,The Irishman 93,Director E,Mexico,2020-10-23,2025,PG,146 min,Drama,Spanish,7.8,678918,175.47,665.36,65.4,0,good
+s94,TV Show,Sex Education 94,Director A,India,2019-12-08,2010,R,25 min,Documentary,Japanese,6.9,153766,105.03,333.84,63.2,3,good
+s95,TV Show,The Gray Man 95,Director E,United States,2020-02-24,2005,TV-14,44 min,Crime,Italian,5.6,60164,94.34,300.37,37,6,average
+s96,TV Show,To All the Boys I've Loved Before 96,Director F,Mexico,2022-10-22,2015,G,53 min,Fantasy,French,5.7,455797,36.41,144.58,36.6,7,average
+s97,Movie,Money Heist 97,Director C,Spain,2022-09-20,2012,TV-14,82 min,Drama,Italian,6.1,148901,3.37,5.98,57.4,0,good
+s98,TV Show,Nimona 98,Director F,United States,2017-06-13,2005,TV-G,49 min,Drama,Italian,8.7,80576,62.53,268.88,68.3,4,excellent
+s99,TV Show,Wednesday 99,Director B,Australia,2020-10-24,2018,G,61 min,Family,German,5.7,26869,86.59,221.18,59.7,7,average
+s100,TV Show,Bridgerton 100,Director B,India,2018-09-23,2003,TV-14,52 min,Fantasy,Korean,6.5,361005,65.26,160.68,46,7,good
+s101,TV Show,Over the Moon 101,Director F,India,2024-02-27,2011,PG-13,66 min,Mystery,Italian,6,636661,32.17,45.52,40.1,3,average
+s102,TV Show,The Gray Man 102,Director F,Canada,2025-11-21,2021,PG,61 min,Horror,English,5.8,76603,104.39,358.51,47.1,6,average
+s103,Movie,Lupin 103,Director A,Australia,2021-03-06,2009,TV-G,132 min,Sci-Fi,English,6.4,680981,8.69,17.71,62.5,0,good
+s104,Movie,Enola Holmes 104,Director C,Italy,2022-10-14,2010,TV-14,135 min,Fantasy,Spanish,7.1,855360,91.24,395.54,69.1,0,good
+s105,Movie,Money Heist 105,Director C,Mexico,2020-11-28,2022,TV-MA,131 min,Mystery,German,6.8,301635,95.28,283.77,52.9,0,good
+s106,TV Show,Wednesday 106,Director C,India,2022-04-04,2003,PG-13,68 min,Romance,French,8,636977,37.68,144.68,75.6,7,good
+s107,TV Show,The Kissing Booth 107,Director F,Italy,2022-09-03,2004,TV-14,70 min,Animation,Japanese,8.6,857686,40.6,96.71,60.3,2,excellent
+s108,TV Show,The Adam Project 108,Director B,United Kingdom,2020-01-25,2000,TV-14,44 min,Crime,Hindi,8.5,206332,114.38,255.67,62.1,3,good
+s109,Movie,The Adam Project 109,Director E,United Kingdom,2019-10-11,2021,G,173 min,Drama,Japanese,5.9,194630,112.01,328.11,57.6,0,average
+s110,Movie,Arcane 110,Director D,South Korea,2022-11-05,2014,TV-PG,111 min,Animation,Italian,6.2,255786,135.93,497.07,46,0,good
+s111,TV Show,The Gray Man 111,Director A,Mexico,2020-04-13,2024,G,57 min,Family,German,8.6,150121,116.12,491.3,80.4,7,excellent
+s112,Movie,Army of the Dead 112,Director E,United Kingdom,2025-06-26,2022,TV-G,141 min,Comedy,Korean,8.5,291042,153.51,262.77,68.1,0,good
+s113,TV Show,Enola Holmes 113,Director C,India,2020-08-26,2000,TV-PG,28 min,Mystery,Spanish,9.5,398124,62.73,112.3,70.1,7,excellent
+s114,Movie,Black Mirror 114,Director A,United States,2025-04-21,2009,PG,135 min,Thriller,Spanish,8.2,475392,125.9,143.69,70.2,0,good
+s115,TV Show,Army of the Dead 115,Director A,India,2024-09-14,2003,G,43 min,Horror,English,7,837463,39.63,39.65,60.8,4,good
+s116,Movie,The Karate Kid 116,Director F,India,2017-08-11,2022,TV-PG,112 min,Comedy,English,6.2,441802,78.4,235.02,42.7,0,good
+s117,TV Show,The Lincoln Lawyer 117,Director F,Mexico,2023-02-16,2001,TV-14,49 min,Mystery,German,8.6,366551,34.17,29.67,63.3,6,excellent
+s118,Movie,Black Mirror 118,Director D,Mexico,2022-02-14,2011,PG-13,118 min,Mystery,Spanish,8.6,492192,146.8,188.32,83.3,0,excellent
+s119,TV Show,Wednesday 119,Director E,Germany,2019-04-16,2001,PG,37 min,Drama,Korean,6.6,330138,95.98,433.86,54.7,1,good
+s120,TV Show,Elite 120,Director D,Spain,2016-07-14,2024,PG-13,66 min,Sci-Fi,Italian,7.1,424453,36.42,151.41,64.9,6,good
+s121,TV Show,Arcane 121,Director A,Spain,2016-12-04,2025,PG,52 min,Crime,Italian,6,313036,54.52,271.48,44.7,2,average
+s122,TV Show,The Social Network 122,Director C,Mexico,2023-09-26,2005,TV-MA,53 min,Comedy,Japanese,9.1,649718,56.42,217.36,87.8,6,excellent
+s123,Movie,Arcane 123,Director C,Spain,2017-08-07,2000,TV-G,152 min,Horror,English,5.7,252459,122.7,283.3,54.6,0,average
+s124,Movie,The Social Network 124,Director C,Mexico,2021-01-16,2021,PG,122 min,Thriller,Hindi,7.7,560178,68.22,243.96,59.5,0,good
+s125,Movie,The Crown 125,Director E,Canada,2021-10-21,2015,G,124 min,Thriller,Hindi,8.5,743237,164.61,174.37,68,0,good
+s126,Movie,Black Mirror 126,Director F,Spain,2017-12-08,2014,TV-14,166 min,Fantasy,French,8.1,891593,81.23,76.55,79.4,0,good
+s127,Movie,Manifest 127,Director B,South Korea,2023-12-16,2022,G,164 min,Drama,German,7.4,132257,115.51,426.86,73.8,0,good
+s128,TV Show,Army of the Dead 128,Director E,France,2025-01-04,2014,TV-G,60 min,Family,Hindi,6.5,756759,75.37,87.59,59.4,3,good
+s129,TV Show,Black Mirror 129,Director E,United Kingdom,2016-10-30,2020,PG-13,53 min,Documentary,English,9,823164,83.21,186.97,74.9,8,excellent
+s130,Movie,Narcos 130,Director A,Canada,2017-11-05,2009,R,95 min,Animation,French,6.7,549103,59.43,200.06,65.8,0,good
+s131,TV Show,Black Mirror 131,Director E,Spain,2021-12-25,2019,TV-MA,30 min,Family,English,5.9,659813,73.06,236.62,54.7,3,average
+s132,Movie,Bridgerton 132,Director D,Mexico,2024-08-24,2020,PG,148 min,Animation,French,7.7,653133,49.11,69.84,66.9,0,good
+s133,Movie,Glass Onion 133,Director D,Germany,2025-01-19,2025,R,162 min,Romance,Spanish,8.2,170759,74.28,175.96,65.5,0,good
+s134,TV Show,The Night Agent 134,Director A,Canada,2025-08-26,2023,G,47 min,Thriller,Spanish,7.6,339617,20.04,47.22,55.3,7,good
+s135,Movie,The Witcher 135,Director E,Italy,2020-04-22,2009,TV-PG,153 min,Thriller,Spanish,9.1,857993,76.43,332.81,69.6,0,excellent
+s136,TV Show,Don't Look Up 136,Director C,United States,2025-11-09,2015,TV-MA,44 min,Crime,Italian,7.4,257422,7.67,36.59,53,8,good
+s137,TV Show,The Social Network 137,Director A,France,2022-01-07,2009,TV-MA,25 min,Horror,Korean,8.3,805961,54.56,245.86,65.3,2,good
+s138,TV Show,Arcane 138,Director B,India,2020-05-01,2002,TV-G,57 min,Romance,German,9.5,718449,92.91,183.48,80.5,8,excellent
+s139,TV Show,Army of the Dead 139,Director E,Germany,2017-08-13,2024,PG-13,37 min,Horror,Spanish,5.8,354218,62.51,61.9,56.1,7,average
+s140,TV Show,The Night Agent 140,Director C,Germany,2020-05-28,2005,TV-MA,64 min,Romance,German,7.4,518641,73.28,214.76,66.3,5,good
+s141,Movie,Murder Mystery 141,Director C,Mexico,2022-07-18,2013,R,114 min,Adventure,English,8.2,32941,143.82,493.12,69.7,0,good
+s142,TV Show,Roma 142,Director A,Germany,2021-11-17,2005,TV-PG,65 min,Documentary,Spanish,5.3,739549,21.99,80.46,33.4,7,average
+s143,Movie,Bird Box 143,Director B,Japan,2021-08-17,2013,R,174 min,Fantasy,German,8.8,767736,110.84,270.37,60.1,0,excellent
+s144,TV Show,To All the Boys I've Loved Before 144,Director F,Mexico,2020-03-23,2016,PG,45 min,Horror,Italian,7.5,713699,57.86,175.84,68.8,3,good
+s145,Movie,The Umbrella Academy 145,Director F,Italy,2022-04-04,2008,G,113 min,Romance,Italian,6.5,308042,42.03,184.69,59,0,good
+s146,TV Show,Lupin 146,Director C,United States,2017-05-14,2009,PG,61 min,Adventure,Hindi,6.7,815616,108.01,265.38,63.3,7,good
+s147,TV Show,Lupin 147,Director A,Australia,2018-11-16,2020,R,55 min,Thriller,English,9.2,734988,28.24,86.47,68.9,4,excellent
+s148,Movie,To All the Boys I've Loved Before 148,Director A,Japan,2018-08-11,2020,PG-13,81 min,Documentary,Italian,7.2,719281,19.84,37.46,66.4,0,good
+s149,Movie,Glass Onion 149,Director E,Italy,2019-03-22,2024,TV-MA,116 min,Action,Japanese,8.5,688984,52.8,43.86,71.5,0,good
+s150,Movie,Ozark 150,Director A,Canada,2024-11-01,2012,TV-14,138 min,Romance,French,9,308528,35.16,123.8,83.7,0,excellent
+s151,TV Show,The Gray Man 151,Director C,Italy,2025-07-17,2004,PG-13,57 min,Drama,German,6.6,771634,36.38,152.69,53.2,8,good
+s152,TV Show,The Mitchells vs. the Machines 152,Director A,France,2023-07-25,2018,TV-14,37 min,Action,Spanish,6.9,453479,75.26,262.1,57.1,3,good
+s153,TV Show,Glass Onion 153,Director E,United States,2016-01-28,2007,PG,41 min,Animation,German,9.3,321613,32.08,127.22,78.1,7,excellent
+s154,Movie,The Old Guard 154,Director C,Italy,2023-06-28,2001,TV-14,90 min,Animation,French,8.2,943599,84.84,103.75,77.6,0,good
+s155,Movie,Arcane 155,Director D,Japan,2017-07-01,2007,R,136 min,Mystery,Korean,7.8,441045,29.27,102.92,69.4,0,good
+s156,Movie,Murder Mystery 156,Director E,South Korea,2021-01-03,2016,PG-13,142 min,Action,German,7.6,69758,127.27,115.13,71.2,0,good
+s157,TV Show,Damsel 157,Director D,Germany,2023-08-18,2003,TV-MA,38 min,Fantasy,Italian,8.7,480458,15.46,45.51,61.2,8,excellent
+s158,TV Show,Murder Mystery 158,Director F,India,2016-03-30,2023,TV-MA,50 min,Comedy,Italian,7.7,52489,98.89,388.87,61,5,good
+s159,TV Show,Money Heist 159,Director F,Mexico,2018-01-07,2013,PG-13,33 min,Animation,German,7.1,400833,48.06,218.37,54.9,7,good
+s160,Movie,Narcos 160,Director C,Germany,2020-05-28,2017,TV-G,142 min,Fantasy,Japanese,8.8,797911,24.67,108.97,59,0,excellent
+s161,Movie,Breaking Bad 161,Director F,France,2019-11-18,2014,TV-MA,94 min,Thriller,Korean,8.3,123326,51.07,217.35,55.3,0,good
+s162,Movie,Wednesday 162,Director D,South Korea,2016-05-17,2019,R,132 min,Mystery,English,5.4,781513,108.41,362.39,32.4,0,average
+s163,TV Show,Black Mirror 163,Director B,Mexico,2025-02-23,2007,R,61 min,Documentary,French,8.7,253411,71.41,288.83,65.7,6,excellent
+s164,Movie,Sex Education 164,Director C,Mexico,2022-08-20,2017,TV-G,169 min,Mystery,German,7,524696,164.26,499.58,45.3,0,good
+s165,TV Show,The Old Guard 165,Director F,United Kingdom,2017-09-03,2013,G,44 min,Drama,Japanese,6.2,241290,26.15,80,45.7,7,good
+s166,Movie,Bird Box 166,Director E,Italy,2018-09-21,2012,R,107 min,Drama,French,9.2,893283,38.19,119.24,71.6,0,excellent
+s167,Movie,The Lincoln Lawyer 167,Director C,Canada,2018-02-09,2002,TV-MA,177 min,Thriller,Korean,7.6,507681,137.58,471.18,54.4,0,good
+s168,Movie,Nimona 168,Director E,Spain,2024-06-16,2023,PG,136 min,Documentary,Italian,8.2,420898,164.77,545.87,78.3,0,good
+s169,TV Show,The Platform 169,Director B,Spain,2018-12-07,2009,TV-PG,48 min,Documentary,English,8.3,803625,58.59,244.43,77.1,8,good
+s170,Movie,The Irishman 170,Director B,Spain,2017-08-20,2023,R,77 min,Documentary,Korean,7.7,442862,48.42,205.57,57.6,0,good
+s171,TV Show,Don't Look Up 171,Director D,United Kingdom,2024-07-23,2008,TV-MA,56 min,Fantasy,English,6.7,151757,58,224.9,61,8,good
+s172,Movie,Wednesday 172,Director E,Germany,2016-01-27,2024,TV-PG,127 min,Drama,Italian,5.5,163366,26.47,80.99,32.2,0,average
+s173,TV Show,To All the Boys I've Loved Before 173,Director F,Mexico,2016-01-28,2000,TV-G,59 min,Mystery,Spanish,6.4,305614,6.36,19.23,39.7,7,good
+s174,Movie,The Witcher 174,Director A,Spain,2017-09-01,2016,TV-G,105 min,Sci-Fi,Korean,8.7,285310,36.16,95.94,79.1,0,excellent
+s175,Movie,The Old Guard 175,Director D,France,2023-09-02,2009,TV-G,180 min,Fantasy,Italian,8.9,801483,152.92,481.63,60.1,0,excellent
+s176,Movie,Dark 176,Director A,Japan,2017-12-02,2022,TV-MA,85 min,Thriller,Korean,8.6,598343,90.97,208.53,83.2,0,excellent
+s177,TV Show,The Old Guard 177,Director B,Australia,2016-07-09,2008,PG-13,29 min,Mystery,Japanese,5.3,896737,108.42,343.34,38.9,5,average
+s178,TV Show,Wednesday 178,Director F,Italy,2022-04-28,2005,TV-14,40 min,Fantasy,German,6.9,780679,82.86,254.41,47,7,good
+s179,Movie,Dark 179,Director C,United States,2018-08-08,2013,PG,84 min,Mystery,Italian,9.3,420973,62.63,225.41,88.6,0,excellent
+s180,Movie,Don't Look Up 180,Director C,South Korea,2022-03-15,2011,TV-14,123 min,Comedy,French,8,94856,78.87,256.39,72.8,0,good
+s181,TV Show,Lucifer 181,Director D,Spain,2024-10-15,2022,PG,65 min,Comedy,Spanish,5.7,10447,90.06,191.83,59.1,3,average
+s182,Movie,Bridgerton 182,Director E,Australia,2021-01-12,2013,TV-PG,146 min,Family,Japanese,5.3,376106,100.74,220.76,45.4,0,average
+s183,TV Show,Stranger Things 183,Director C,Germany,2020-05-07,2013,PG-13,30 min,Comedy,Spanish,6.8,150584,70.78,107.04,49.7,4,good
+s184,TV Show,Red Notice 184,Director B,Germany,2019-05-12,2013,TV-14,55 min,Action,French,8.3,524886,46.53,221.75,70.4,2,good
+s185,TV Show,Stranger Things 185,Director F,Australia,2025-06-09,2010,PG-13,64 min,Crime,German,6.6,860088,97.47,212.88,63,7,good
+s186,Movie,The Social Network 186,Director E,South Korea,2019-07-10,2015,TV-PG,97 min,Documentary,French,6.5,733716,173.69,760.42,57.1,0,good
+s187,TV Show,The Mitchells vs. the Machines 187,Director F,Germany,2017-04-11,2011,R,61 min,Sci-Fi,French,8.1,581820,73.11,226.03,53.5,4,good
+s188,Movie,The Old Guard 188,Director F,France,2024-11-30,2025,TV-G,127 min,Comedy,Italian,6.5,269955,121.79,139.18,57.8,0,good
+s189,TV Show,The Social Network 189,Director E,Mexico,2020-06-29,2018,TV-14,59 min,Comedy,Korean,6.7,944001,67.52,278.25,63.5,7,good
+s190,TV Show,To All the Boys I've Loved Before 190,Director D,India,2023-04-04,2005,TV-MA,64 min,Comedy,French,8,794245,69.77,244.83,61,1,good
+s191,Movie,Breaking Bad 191,Director A,Germany,2020-03-12,2014,TV-14,125 min,Crime,Japanese,8.2,163067,84.43,274.42,62.9,0,good
+s192,Movie,Bridgerton 192,Director A,Germany,2017-08-03,2023,G,119 min,Romance,Hindi,6.1,511384,57.52,136.66,46.2,0,good
+s193,Movie,Manifest 193,Director F,South Korea,2023-12-21,2025,PG-13,89 min,Fantasy,Spanish,5.7,843913,6.02,11.67,38,0,average
+s194,TV Show,The Recruit 194,Director B,Germany,2018-08-07,2014,TV-G,50 min,Documentary,English,6.9,778207,26.43,94.11,59.8,3,good
+s195,Movie,6 Underground 195,Director B,Spain,2019-02-14,2006,TV-PG,171 min,Thriller,Italian,7.7,843338,127.27,471.46,73.1,0,good
+s196,TV Show,Narcos 196,Director D,Australia,2025-09-03,2021,PG-13,56 min,Family,French,7.7,369825,73.65,248.02,59.1,6,good
+s197,Movie,The Intern 197,Director D,France,2017-07-02,2021,PG-13,115 min,Horror,Japanese,6,732120,22.98,41.16,39.8,0,average
+s198,Movie,Red Notice 198,Director C,United Kingdom,2023-02-16,2015,PG-13,143 min,Romance,Italian,9.5,586868,125.43,390.9,68.5,0,excellent
+s199,Movie,The Intern 199,Director D,Mexico,2016-02-09,2011,G,137 min,Documentary,Italian,9.3,534990,26.3,99.4,80,0,excellent
+s200,Movie,Don't Look Up 200,Director B,Germany,2022-05-04,2002,G,78 min,Fantasy,Hindi,5.3,240765,143.67,209.77,44.9,0,average
+s201,Movie,The Irishman 201,Director D,Japan,2024-09-09,2008,R,144 min,Documentary,Hindi,8.7,48631,148.54,301.65,78.1,0,excellent
+s202,Movie,Nimona 202,Director A,South Korea,2025-10-23,2009,R,79 min,Mystery,German,8.7,465398,82.05,160.77,81,0,excellent
+s203,TV Show,6 Underground 203,Director E,United Kingdom,2022-11-28,2005,TV-PG,33 min,Adventure,French,7.7,563136,98.56,412.26,57.2,4,good
+s204,TV Show,Elite 204,Director B,Italy,2023-08-14,2016,PG-13,31 min,Thriller,Spanish,9.2,295794,115.72,474.44,85,3,excellent
+s205,TV Show,6 Underground 205,Director A,Mexico,2024-07-15,2007,TV-14,68 min,Documentary,French,6.4,439346,61.29,197.67,49.3,7,good
+s206,TV Show,The Old Guard 206,Director F,Spain,2021-06-22,2014,TV-14,45 min,Mystery,Japanese,5.6,485718,104.92,457.25,49.9,1,average
+s207,TV Show,Squid Game 207,Director C,Mexico,2021-07-19,2006,TV-MA,42 min,Drama,Hindi,7.7,598643,100.26,222.43,72.6,6,good
+s208,TV Show,The Karate Kid 208,Director F,Canada,2017-05-23,2000,PG-13,35 min,Family,French,7,727040,57.5,285.53,68.6,8,good
+s209,TV Show,Bridgerton 209,Director F,India,2016-12-03,2008,TV-14,48 min,Drama,Korean,8.3,796918,10.96,37.57,60.7,3,good
+s210,Movie,Glass Onion 210,Director D,Italy,2022-08-28,2004,PG-13,103 min,Sci-Fi,Hindi,5.2,365263,94.46,220.64,51.7,0,average
+s211,TV Show,Breaking Bad 211,Director B,Mexico,2024-03-12,2002,PG-13,31 min,Comedy,English,5.8,816032,41.04,184.69,56.4,2,average
+s212,Movie,The Intern 212,Director B,India,2019-12-09,2014,TV-14,167 min,Action,Hindi,9.2,651002,39.92,140.45,80.1,0,excellent
+s213,TV Show,Roma 213,Director E,Canada,2020-10-24,2011,TV-MA,45 min,Family,French,6.3,635193,33.5,117.5,54.6,3,good
+s214,Movie,Squid Game 214,Director A,South Korea,2020-05-23,2023,G,112 min,Animation,Hindi,8.6,255967,117.02,427.92,70.2,0,excellent
+s215,Movie,Damsel 215,Director D,India,2019-07-20,2011,TV-MA,91 min,Horror,Hindi,7,577896,70.86,274.37,62.4,0,good
+s216,TV Show,Stranger Things 216,Director D,India,2016-06-12,2006,PG-13,28 min,Crime,Hindi,7.4,440612,63.26,217.61,58.6,7,good
+s217,Movie,Manifest 217,Director F,Mexico,2018-04-12,2016,TV-14,178 min,Crime,Japanese,7.7,805298,29.66,55.59,72.1,0,good
+s218,Movie,The Sea Beast 218,Director F,Mexico,2018-09-28,2001,PG-13,86 min,Comedy,English,7.8,62701,166.58,175.3,58.8,0,good
+s219,Movie,6 Underground 219,Director B,Spain,2016-02-16,2022,PG-13,95 min,Adventure,French,7.4,867460,90.36,176.4,66.7,0,good
+s220,Movie,The Sea Beast 220,Director F,India,2016-04-30,2024,G,117 min,Sci-Fi,German,5.5,751925,145.67,241.92,58.3,0,average
+s221,TV Show,Dark 221,Director F,Japan,2017-11-14,2018,TV-MA,48 min,Drama,English,7.7,762888,34.34,42.31,52.7,3,good
+s222,Movie,Peaky Blinders 222,Director F,Italy,2020-01-30,2015,TV-G,124 min,Thriller,German,9.3,42081,165.8,215.2,77.3,0,excellent
+s223,TV Show,Peaky Blinders 223,Director E,United States,2019-08-03,2023,TV-G,42 min,Comedy,Italian,8.1,60230,70.73,92.05,57.6,2,good
+s224,TV Show,Elite 224,Director B,Germany,2016-12-19,2010,TV-PG,60 min,Horror,Italian,7.6,323672,5.92,9.73,68.8,8,good
+s225,Movie,Over the Moon 225,Director C,Mexico,2022-02-16,2023,TV-MA,172 min,Romance,English,9.2,30071,143.68,170.58,67.9,0,excellent
+s226,TV Show,Klaus 226,Director B,Italy,2024-02-26,2023,PG,44 min,Comedy,English,7,67804,28.6,140.97,70.3,2,good
+s227,TV Show,Breaking Bad 227,Director E,United States,2020-03-05,2022,TV-G,54 min,Animation,Spanish,7.9,418507,71.79,209.83,53.2,2,good
+s228,TV Show,Peaky Blinders 228,Director B,United Kingdom,2025-07-17,2008,TV-14,45 min,Action,Hindi,6.6,290166,85.58,332.78,47.1,7,good
+s229,TV Show,You 229,Director A,India,2019-07-10,2014,PG-13,51 min,Mystery,French,6.1,328284,66.63,323.25,49.3,2,good
+s230,Movie,6 Underground 230,Director F,Canada,2025-05-16,2006,PG,116 min,Family,Spanish,9.4,420492,28.4,95.81,77.1,0,excellent
+s231,TV Show,The Crown 231,Director B,United Kingdom,2022-03-27,2014,R,60 min,Family,Japanese,8.6,132352,15.89,19.51,57.1,4,excellent
+s232,Movie,Arcane 232,Director D,United Kingdom,2022-07-28,2018,TV-14,108 min,Family,German,9.5,212356,165.3,147.52,88.4,0,excellent
+s233,Movie,Narcos 233,Director F,France,2016-07-26,2014,PG-13,96 min,Romance,Korean,8.3,525226,166.5,381.17,55.2,0,good
+s234,TV Show,Ozark 234,Director E,Germany,2020-12-31,2008,TV-MA,34 min,Comedy,French,8,528125,75.62,256.45,63.1,1,good
+s235,Movie,The Lincoln Lawyer 235,Director A,France,2018-03-27,2013,TV-PG,157 min,Sci-Fi,Italian,7.9,846134,159.47,422.7,65.9,0,good
+s236,TV Show,Lupin 236,Director D,Japan,2019-01-12,2012,TV-PG,36 min,Mystery,Korean,9.1,821356,41.67,71.67,68.4,1,excellent
+s237,Movie,You 237,Director B,Australia,2023-05-14,2007,TV-G,105 min,Romance,Spanish,9.1,63624,49.44,187.06,81.4,0,excellent
+s238,Movie,Ozark 238,Director E,Australia,2019-07-26,2018,PG-13,178 min,Horror,Korean,7.7,742623,133.38,266.66,68.5,0,good
+s239,TV Show,Don't Look Up 239,Director E,South Korea,2021-07-01,2005,PG-13,27 min,Romance,Spanish,5.3,506207,11.46,38.13,30.4,2,average
+s240,Movie,The Night Agent 240,Director A,Spain,2017-08-28,2000,TV-G,150 min,Horror,Hindi,5.7,556860,127.44,146.87,56.8,0,average
+s241,TV Show,The Recruit 241,Director E,Italy,2017-07-12,2010,TV-PG,35 min,Thriller,Spanish,8,187664,96.06,464.43,71.1,7,good
+s242,TV Show,The Lincoln Lawyer 242,Director E,United States,2023-09-21,2023,PG-13,43 min,Horror,German,8.2,605660,25.44,20.54,64.2,3,good
+s243,Movie,The Intern 243,Director C,United Kingdom,2022-05-05,2020,TV-14,88 min,Family,German,8.4,254556,168.73,193.79,64.6,0,good
+s244,Movie,Enola Holmes 244,Director D,Germany,2018-05-08,2008,TV-G,106 min,Action,Japanese,8.6,760408,125.39,246.63,56.8,0,excellent
+s245,TV Show,Don't Look Up 245,Director B,Germany,2022-02-14,2011,TV-14,49 min,Mystery,English,7.7,800075,100.31,412.54,68.2,2,good
+s246,Movie,Elite 246,Director A,Spain,2018-12-05,2010,G,88 min,Adventure,English,6.8,772541,15.21,19.22,44.4,0,good
+s247,Movie,Red Notice 247,Director E,Italy,2025-12-23,2019,PG,130 min,Animation,French,6.1,204212,29.96,29.81,47.9,0,good
+s248,Movie,Manifest 248,Director A,Canada,2016-07-22,2003,G,125 min,Thriller,Hindi,5.9,383356,103.78,402.19,35.3,0,average
+s249,Movie,The Crown 249,Director D,Mexico,2023-02-27,2005,PG,112 min,Comedy,Japanese,5.7,828002,175.92,430.46,44.3,0,average
+s250,TV Show,Ozark 250,Director A,United Kingdom,2020-02-22,2012,TV-14,36 min,Comedy,German,6.3,882740,10.13,26.81,45.7,8,good
+s251,TV Show,The Platform 251,Director D,Australia,2022-08-12,2024,R,39 min,Sci-Fi,French,7,566527,101.69,430.89,62.6,1,good
+s252,TV Show,Bridgerton 252,Director B,United Kingdom,2016-05-22,2022,TV-MA,57 min,Documentary,Hindi,5.9,180284,18.83,74.95,61.4,3,average
+s253,TV Show,Murder Mystery 253,Director D,Japan,2025-03-23,2006,TV-G,65 min,Fantasy,German,9.1,851561,100.92,190.04,62.6,3,excellent
+s254,TV Show,Sex Education 254,Director A,India,2024-10-26,2000,TV-14,69 min,Mystery,French,7.6,615981,17.94,25.63,69.3,7,good
+s255,TV Show,The Platform 255,Director E,Mexico,2018-12-17,2013,TV-G,49 min,Drama,Japanese,5.9,427548,70.78,197.25,39.1,8,average
+s256,Movie,The Recruit 256,Director C,Canada,2024-05-12,2001,G,135 min,Family,Hindi,5.3,862091,165.91,679.97,51.8,0,average
+s257,Movie,Breaking Bad 257,Director B,Germany,2024-05-04,2009,R,131 min,Family,Japanese,8.3,639366,139.78,258.79,71.8,0,good
+s258,TV Show,Nimona 258,Director E,Australia,2021-10-16,2024,TV-MA,48 min,Action,Korean,6.5,536413,64.26,94.31,50.9,1,good
+s259,Movie,The Umbrella Academy 259,Director E,France,2016-05-15,2007,TV-14,133 min,Animation,English,6.1,391244,11,22.06,59,0,good
+s260,TV Show,Peaky Blinders 260,Director C,Italy,2022-08-30,2015,TV-14,53 min,Crime,English,7.6,365971,115.46,322.51,53.2,3,good
+s261,Movie,The Lincoln Lawyer 261,Director C,Mexico,2025-07-29,2005,TV-G,148 min,Fantasy,English,6.2,241047,140.81,202.18,55.9,0,good
+s262,Movie,Over the Moon 262,Director C,Italy,2017-06-25,2015,PG,157 min,Documentary,Japanese,6.2,642894,32.83,122.24,59.3,0,good
+s263,TV Show,Lupin 263,Director F,Spain,2018-06-12,2008,PG,54 min,Crime,Hindi,6.9,112282,82.88,353.24,43.4,5,good
+s264,Movie,Glass Onion 264,Director B,United Kingdom,2019-02-06,2010,R,156 min,Drama,Japanese,8,940721,59.87,100.57,69.6,0,good
+s265,TV Show,To All the Boys I've Loved Before 265,Director E,Italy,2017-07-27,2021,R,26 min,Romance,Korean,7,412135,119.71,226.2,63.9,8,good
+s266,TV Show,Murder Mystery 266,Director D,United Kingdom,2020-01-08,2021,PG,57 min,Adventure,Spanish,9,194934,102.22,442.68,67.9,5,excellent
+s267,TV Show,Murder Mystery 267,Director C,Australia,2016-12-31,2020,PG,39 min,Sci-Fi,Hindi,7,934922,30.68,136.83,52.9,6,good
+s268,Movie,Glass Onion 268,Director F,France,2022-07-18,2020,PG,149 min,Documentary,English,9,529788,170.09,149.3,63.2,0,excellent
+s269,Movie,Lucifer 269,Director F,United Kingdom,2019-11-04,2006,TV-14,127 min,Sci-Fi,German,9.4,155181,177.72,725.47,71.7,0,excellent
+s270,Movie,The Karate Kid 270,Director B,Germany,2023-02-11,2010,TV-14,82 min,Action,Japanese,8.5,181795,2.84,4.73,71.6,0,good
+s271,TV Show,The Karate Kid 271,Director E,South Korea,2020-10-23,2012,TV-MA,55 min,Animation,English,8.3,19760,5.54,16.85,78.5,7,good
+s272,Movie,The Karate Kid 272,Director A,Canada,2023-10-11,2007,PG,119 min,Sci-Fi,German,7.4,325984,57.55,57.58,51.7,0,good
+s273,Movie,Red Notice 273,Director B,South Korea,2021-06-30,2010,PG-13,120 min,Thriller,English,9.1,856452,135.52,168.46,71.7,0,excellent
+s274,Movie,Roma 274,Director E,United States,2020-02-10,2003,TV-MA,166 min,Animation,Hindi,9,273214,117.8,87.85,80.8,0,excellent
+s275,Movie,The Kissing Booth 275,Director B,Italy,2023-09-26,2001,TV-MA,89 min,Crime,Japanese,7.6,502440,76.19,158.7,67.8,0,good
+s276,Movie,To All the Boys I've Loved Before 276,Director F,Australia,2021-11-01,2021,TV-14,109 min,Crime,Hindi,7,947273,112.86,376.14,46.8,0,good
+s277,Movie,The Mitchells vs. the Machines 277,Director D,Canada,2018-03-24,2015,PG-13,152 min,Drama,Italian,7.4,216469,37.56,61.06,56.9,0,good
+s278,TV Show,Squid Game 278,Director A,Japan,2018-08-18,2010,TV-14,25 min,Adventure,Hindi,8.8,706520,82.24,379.04,71.7,1,excellent
+s279,Movie,The Queen's Gambit 279,Director C,Mexico,2019-04-27,2014,TV-PG,108 min,Documentary,Hindi,6,46360,84.64,83.73,59,0,average
+s280,Movie,The Witcher 280,Director C,Italy,2025-07-21,2000,TV-14,92 min,Romance,German,6.7,463976,120.08,151.9,67.4,0,good
+s281,Movie,Ozark 281,Director B,India,2020-06-27,2012,PG-13,133 min,Adventure,English,8.9,843754,50.39,106.04,70.6,0,excellent
+s282,Movie,You 282,Director E,United States,2022-08-16,2013,PG-13,136 min,Sci-Fi,Italian,6,403197,144.8,469.98,57,0,average
+s283,TV Show,Narcos 283,Director E,Italy,2016-07-07,2014,R,29 min,Animation,German,8.9,555311,80.32,68.43,79.9,5,excellent
+s284,Movie,Damsel 284,Director E,Australia,2023-06-03,2013,TV-MA,168 min,Drama,Spanish,8.1,408572,46.25,90.11,56.8,0,good
+s285,TV Show,The Adam Project 285,Director B,Japan,2025-10-01,2015,TV-G,35 min,Documentary,Korean,6.6,296668,91.41,196.23,42.2,2,good
+s286,TV Show,Bridgerton 286,Director A,India,2024-12-25,2014,TV-G,61 min,Documentary,English,6.6,526533,15.12,43.75,60.9,8,good
+s287,Movie,Army of the Dead 287,Director F,Germany,2024-11-17,2002,TV-PG,152 min,Romance,English,9,594648,173.44,535.3,65.6,0,excellent
+s288,TV Show,Breaking Bad 288,Director B,United States,2022-04-13,2010,TV-PG,64 min,Romance,French,7.1,107170,87.42,203.32,65.3,8,good
+s289,TV Show,Army of the Dead 289,Director E,South Korea,2017-03-11,2022,R,27 min,Comedy,Japanese,8.4,434088,61.63,262.03,58.1,3,good
+s290,TV Show,Squid Game 290,Director A,Germany,2018-02-19,2025,G,70 min,Animation,Spanish,9.2,883146,17.39,44.18,79.7,6,excellent
+s291,Movie,Don't Look Up 291,Director B,Italy,2024-04-03,2016,PG-13,81 min,Adventure,Spanish,7.7,538025,100.47,229.87,70.7,0,good
+s292,TV Show,The Witcher 292,Director C,France,2022-09-25,2021,TV-PG,63 min,Crime,Italian,9.4,731155,62.97,152.11,83.8,6,excellent
+s293,Movie,Black Mirror 293,Director F,Italy,2022-10-03,2013,R,164 min,Thriller,Korean,8.8,579416,159.79,415.13,81.6,0,excellent
+s294,TV Show,The Intern 294,Director F,Spain,2019-11-15,2021,TV-14,68 min,Mystery,German,9.3,533370,117.85,416.05,77,3,excellent
+s295,TV Show,Army of the Dead 295,Director A,Japan,2022-05-26,2018,TV-14,67 min,Drama,Japanese,7.5,925101,82.54,375.91,70.9,7,good
+s296,Movie,Lucifer 296,Director A,Italy,2016-08-19,2021,PG,100 min,Thriller,English,9.4,721586,49.52,181.42,70,0,excellent
+s297,TV Show,Lupin 297,Director F,Canada,2022-11-28,2003,TV-MA,68 min,Documentary,Japanese,6.2,827405,90.38,285.36,59.1,4,good
+s298,TV Show,Bird Box 298,Director F,Italy,2016-08-08,2017,TV-PG,25 min,Mystery,Korean,8.9,469586,28.36,126.18,81.6,5,excellent
+s299,Movie,Over the Moon 299,Director D,United States,2021-01-12,2009,TV-G,97 min,Crime,French,9.3,775786,177.05,157.65,76.3,0,excellent
+s300,Movie,Black Mirror 300,Director C,Australia,2025-06-27,2018,TV-MA,107 min,Mystery,French,9.2,46880,3,7.26,65.7,0,excellent
+s301,TV Show,Don't Look Up 301,Director D,Japan,2024-10-16,2002,TV-G,70 min,Comedy,German,7.4,829451,65.42,315.28,60.8,6,good
+s302,Movie,Breaking Bad 302,Director E,Mexico,2019-09-21,2021,TV-MA,117 min,Comedy,German,8.4,561268,66.22,96.15,68,0,good
+s303,Movie,Enola Holmes 303,Director A,France,2022-11-18,2020,PG,154 min,Fantasy,French,9,404898,45.4,34.3,84.7,0,excellent
+s304,TV Show,The Crown 304,Director A,United Kingdom,2025-01-01,2016,TV-MA,57 min,Animation,Hindi,8,340872,60.98,124.71,65.9,8,good
+s305,Movie,Squid Game 305,Director F,India,2020-10-03,2021,PG-13,88 min,Drama,Italian,9,782388,38.59,147.88,80.9,0,excellent
+s306,TV Show,6 Underground 306,Director C,France,2016-12-24,2001,TV-G,29 min,Sci-Fi,Japanese,5.5,866530,25.47,47.32,38.1,1,average
+s307,TV Show,Red Notice 307,Director A,Italy,2020-05-14,2000,TV-14,68 min,Romance,Hindi,7.9,797682,66.51,232.38,71.3,2,good
+s308,TV Show,Elite 308,Director B,Italy,2016-12-20,2019,TV-G,43 min,Mystery,French,5.3,168917,48.86,207.8,44.8,8,average
+s309,Movie,The Karate Kid 309,Director E,United Kingdom,2023-08-06,2009,TV-14,176 min,Drama,English,9.3,16691,156.35,488.9,77.3,0,excellent
+s310,TV Show,The Irishman 310,Director F,Japan,2022-02-20,2017,PG-13,30 min,Action,Spanish,8.3,227022,29.16,114.13,65.5,5,good
+s311,TV Show,Breaking Bad 311,Director A,Canada,2017-04-14,2006,TV-14,36 min,Crime,Hindi,9.5,488671,102.91,485.32,81.4,1,excellent
+s312,TV Show,The Umbrella Academy 312,Director C,Australia,2020-01-02,2010,PG,33 min,Adventure,Spanish,9.1,338222,16.51,56.17,73.9,4,excellent
+s313,TV Show,The Irishman 313,Director C,Spain,2019-07-19,2025,PG-13,52 min,Animation,German,6.2,780753,5.56,10.2,54.9,3,good
+s314,TV Show,Glass Onion 314,Director B,Japan,2020-01-09,2014,R,44 min,Crime,Hindi,7.8,887683,68.44,105.28,58,8,good
+s315,Movie,The Sea Beast 315,Director A,Japan,2025-07-11,2000,PG,139 min,Fantasy,Italian,7.7,811564,114.43,431.32,65.5,0,good
+s316,Movie,The Kissing Booth 316,Director E,India,2020-05-26,2011,TV-G,103 min,Romance,English,8.9,145384,160.68,465.88,71.7,0,excellent
+s317,Movie,To All the Boys I've Loved Before 317,Director E,Mexico,2022-11-20,2025,PG-13,162 min,Adventure,Italian,7.1,192847,31.52,82.11,60.1,0,good
+s318,Movie,Lupin 318,Director C,France,2024-07-15,2007,G,137 min,Sci-Fi,English,6.2,706062,43.25,70.54,43.2,0,good
+s319,TV Show,Money Heist 319,Director D,Spain,2023-11-22,2003,TV-14,58 min,Fantasy,French,7.5,187294,101.01,192.52,58.2,5,good
+s320,Movie,The Lincoln Lawyer 320,Director E,United Kingdom,2020-07-20,2016,G,120 min,Action,Korean,8.6,935267,147.47,286.92,73.1,0,excellent
+s321,TV Show,Wednesday 321,Director C,Italy,2017-09-07,2006,TV-14,36 min,Sci-Fi,Italian,5.7,246535,46.66,177.9,44.8,3,average
+s322,Movie,Glass Onion 322,Director B,Mexico,2017-10-22,2018,TV-MA,157 min,Horror,Spanish,5.4,606344,150.34,103.36,47.2,0,average
+s323,Movie,Dark 323,Director F,Mexico,2018-01-07,2008,PG,141 min,Comedy,Korean,7.6,24524,172.57,506.92,72.5,0,good
+s324,TV Show,Enola Holmes 324,Director E,Canada,2017-11-29,2015,PG-13,39 min,Adventure,German,8.7,195719,74.1,306.58,74.4,7,excellent
+s325,Movie,The Gray Man 325,Director B,Australia,2020-03-29,2007,TV-14,124 min,Action,Italian,7.4,533859,25.53,16.97,65.7,0,good
+s326,Movie,The Intern 326,Director A,Mexico,2021-12-16,2025,TV-G,139 min,Fantasy,Japanese,8,637789,135.92,130.95,66.6,0,good
+s327,Movie,Arcane 327,Director F,Italy,2021-12-10,2022,TV-14,129 min,Documentary,Spanish,8.6,404755,42.85,159.79,66.3,0,excellent
+s328,TV Show,The Queen's Gambit 328,Director A,Australia,2018-08-10,2024,TV-14,30 min,Fantasy,English,6.3,10735,73.8,227.57,57.5,5,good
+s329,Movie,The Lincoln Lawyer 329,Director E,France,2025-01-07,2022,TV-PG,115 min,Horror,French,7,618805,74.77,75.94,50.8,0,good
+s330,TV Show,Murder Mystery 330,Director F,France,2018-04-14,2024,PG-13,51 min,Family,Hindi,7.3,326549,25.55,80.44,62,8,good
+s331,Movie,Nimona 331,Director E,Australia,2024-10-12,2014,TV-MA,164 min,Action,Japanese,7.4,829265,170.97,169.45,56.3,0,good
+s332,Movie,The Karate Kid 332,Director C,India,2017-01-08,2025,TV-MA,180 min,Adventure,Japanese,7.1,72193,27.87,117.36,51.9,0,good
+s333,TV Show,Extraction 333,Director E,Canada,2022-09-13,2022,R,28 min,Drama,Korean,6.1,693793,78.63,207.87,61.9,3,good
+s334,Movie,The Intern 334,Director C,Mexico,2016-05-27,2021,TV-G,121 min,Documentary,Korean,5.9,294340,44.59,26.8,56.3,0,average
+s335,Movie,Damsel 335,Director C,Spain,2023-11-22,2023,PG,83 min,Thriller,Korean,8.3,591273,165.61,454.34,79.1,0,good
+s336,TV Show,The Gray Man 336,Director A,Japan,2016-01-20,2018,PG,41 min,Fantasy,French,5.5,313545,51.82,64.63,41.2,3,average
+s337,TV Show,The Old Guard 337,Director A,Germany,2022-04-25,2012,TV-14,55 min,Crime,Hindi,7.2,488100,92.11,445.55,69.8,4,good
+s338,Movie,The Lincoln Lawyer 338,Director C,South Korea,2023-11-12,2021,PG,104 min,Comedy,Japanese,6.7,566671,144.43,318.97,41.9,0,good
+s339,TV Show,Murder Mystery 339,Director F,South Korea,2022-03-21,2002,G,36 min,Adventure,Korean,7.7,196663,41.1,70.61,75.2,8,good
+s340,Movie,Peaky Blinders 340,Director A,India,2018-04-26,2008,G,104 min,Horror,English,7.9,168573,38.09,59.95,72.2,0,good
+s341,Movie,Klaus 341,Director D,United Kingdom,2020-02-29,2015,PG,154 min,Documentary,Korean,9,607427,58.14,238.53,83.5,0,excellent
+s342,Movie,Klaus 342,Director F,United Kingdom,2021-11-23,2001,G,177 min,Comedy,Italian,5.3,369158,77.33,329.79,41,0,average
+s343,Movie,The Night Agent 343,Director E,Canada,2023-07-24,2000,R,101 min,Crime,Italian,6.8,908706,69.54,69.05,49.4,0,good
+s344,TV Show,The Intern 344,Director D,United Kingdom,2018-01-23,2011,PG-13,56 min,Horror,Korean,6.8,900825,29.21,109.33,53.2,7,good
+s345,TV Show,The Witcher 345,Director A,United Kingdom,2018-08-23,2025,TV-G,60 min,Sci-Fi,Spanish,8.6,779417,103.48,168,60.8,7,excellent
+s346,TV Show,The Karate Kid 346,Director B,Canada,2021-06-16,2025,G,44 min,Family,Hindi,6.9,729087,69.65,221.83,47.6,5,good
+s347,TV Show,Enola Holmes 347,Director B,Australia,2020-01-18,2008,PG-13,48 min,Mystery,French,6.7,717597,44.58,112.76,67.6,5,good
+s348,TV Show,Lupin 348,Director B,Mexico,2021-09-21,2021,TV-PG,56 min,Documentary,Japanese,6.4,667398,107.31,257.6,65,8,good
+s349,Movie,Wednesday 349,Director C,Germany,2019-11-08,2005,TV-PG,104 min,Adventure,Italian,8.3,639792,57.8,181.88,71.8,0,good
+s350,Movie,Bird Box 350,Director A,South Korea,2025-07-30,2005,PG-13,77 min,Documentary,Hindi,6.3,785009,24.26,36.76,57.3,0,good
+s351,Movie,The Witcher 351,Director E,United Kingdom,2022-02-24,2015,TV-14,81 min,Animation,Japanese,8.5,92295,6.69,14.37,58.8,0,good
+s352,Movie,Manifest 352,Director F,Spain,2024-04-09,2007,TV-PG,111 min,Family,Italian,7.5,183895,80.88,88.4,48.8,0,good
+s353,TV Show,The Gray Man 353,Director E,Mexico,2020-12-27,2017,PG,33 min,Romance,Italian,8.4,924909,72.95,198.24,70.4,3,good
+s354,Movie,The Platform 354,Director B,Spain,2017-01-01,2025,PG,131 min,Sci-Fi,English,5.9,16068,56.8,125.39,35.2,0,average
+s355,TV Show,The Old Guard 355,Director C,South Korea,2021-05-08,2024,TV-G,44 min,Fantasy,Japanese,7.8,840471,93.07,386.38,50.6,1,good
+s356,Movie,Extraction 356,Director B,Japan,2024-01-07,2005,PG,169 min,Crime,French,6.1,88057,116.99,448.17,48.2,0,good
+s357,Movie,Bird Box 357,Director D,South Korea,2018-01-17,2002,TV-PG,92 min,Drama,Spanish,7.9,290353,53.55,165.14,70.1,0,good
+s358,Movie,Dark 358,Director A,Germany,2017-02-22,2005,R,111 min,Romance,Japanese,8.3,249119,49.92,169.19,56.8,0,good
+s359,TV Show,Manifest 359,Director D,India,2021-03-14,2011,G,69 min,Action,Korean,9.3,63760,42.98,186.66,69.6,1,excellent
+s360,TV Show,The Queen's Gambit 360,Director F,India,2017-05-14,2000,R,70 min,Sci-Fi,Japanese,6.3,40138,49.25,241.07,43.8,4,good
+s361,TV Show,Murder Mystery 361,Director B,Spain,2017-10-11,2010,TV-MA,65 min,Family,Korean,5.7,509605,90.64,281.73,50.8,1,average
+s362,Movie,Narcos 362,Director A,United States,2020-11-13,2020,G,116 min,Adventure,Spanish,7.7,420035,4.68,17.31,70.9,0,good
+s363,Movie,Arcane 363,Director A,Spain,2017-10-07,2007,PG-13,138 min,Adventure,Hindi,9.2,801456,18.27,55.04,78.5,0,excellent
+s364,TV Show,Black Mirror 364,Director F,United Kingdom,2019-07-21,2007,PG,60 min,Drama,Italian,6,727730,97.64,258.03,46.2,6,average
+s365,TV Show,6 Underground 365,Director E,Japan,2019-04-22,2017,PG-13,59 min,Comedy,Spanish,6.7,772979,26.82,42.48,54.2,8,good
+s366,TV Show,Enola Holmes 366,Director E,Spain,2022-01-27,2008,R,48 min,Romance,Hindi,6.8,199546,5.08,17.68,66.2,8,good
+s367,TV Show,To All the Boys I've Loved Before 367,Director A,India,2021-11-16,2006,TV-14,68 min,Drama,Spanish,6.4,434711,93.06,134.69,56.5,8,good
+s368,Movie,Ozark 368,Director E,Australia,2017-03-14,2006,PG,137 min,Drama,German,8,412475,36.11,26.15,69.8,0,good
+s369,Movie,Breaking Bad 369,Director C,Japan,2018-05-04,2000,TV-G,158 min,Family,German,5.5,844930,89.47,364.15,49.3,0,average
+s370,Movie,The Mitchells vs. the Machines 370,Director A,India,2018-12-24,2019,R,142 min,Fantasy,Japanese,6.5,231387,9.24,8.08,65.9,0,good
+s371,Movie,The Umbrella Academy 371,Director A,Mexico,2023-05-14,2016,TV-PG,106 min,Animation,Italian,7.6,590253,103.46,444.39,60,0,good
+s372,TV Show,The Old Guard 372,Director C,Spain,2017-11-14,2003,TV-PG,36 min,Family,German,7.5,634057,63.04,224.53,60,7,good
+s373,TV Show,Bird Box 373,Director D,Germany,2019-08-17,2023,TV-G,63 min,Drama,English,8.5,785746,69.76,118.49,62.9,4,good
+s374,Movie,Elite 374,Director F,Canada,2017-07-07,2016,PG-13,113 min,Comedy,English,6.1,335201,3.17,14.07,37.4,0,good
+s375,TV Show,The Gray Man 375,Director D,Australia,2017-07-20,2004,R,41 min,Adventure,Hindi,6.3,319889,107.31,198.46,40.9,6,good
+s376,TV Show,The Sea Beast 376,Director C,United States,2021-05-30,2025,TV-G,36 min,Comedy,English,7.7,104996,99.96,369.48,65.7,8,good
+s377,TV Show,Over the Moon 377,Director E,United States,2025-11-12,2011,TV-G,52 min,Drama,French,8.5,788997,111.98,146.28,73.6,7,good
+s378,Movie,Damsel 378,Director D,Germany,2022-01-20,2010,TV-14,147 min,Thriller,Japanese,6.1,57973,28.63,73.27,55,0,good
+s379,TV Show,Elite 379,Director E,France,2017-06-25,2004,PG-13,46 min,Mystery,Spanish,7.6,280311,59.72,234.72,51.1,2,good
+s380,Movie,Glass Onion 380,Director A,Canada,2020-06-07,2015,TV-G,158 min,Romance,Hindi,9.5,554713,103.7,289.17,70.6,0,excellent
+s381,TV Show,Narcos 381,Director C,Australia,2020-02-05,2013,G,47 min,Horror,Spanish,5.3,324625,41.88,137.96,35,4,average
+s382,Movie,Enola Holmes 382,Director B,Australia,2018-03-28,2007,PG-13,162 min,Family,French,8.9,122830,68.54,243.67,79.2,0,excellent
+s383,TV Show,Stranger Things 383,Director E,Japan,2025-01-07,2022,PG,32 min,Fantasy,Italian,6.1,569139,56.76,50.83,42.5,5,good
+s384,Movie,The Intern 384,Director A,Canada,2023-11-02,2022,R,160 min,Mystery,French,8.1,50594,5.27,15.14,59.7,0,good
+s385,TV Show,Dark 385,Director A,Canada,2016-02-04,2020,TV-G,29 min,Thriller,Japanese,9.1,382717,80.94,290.13,84.1,7,excellent
+s386,Movie,The Adam Project 386,Director F,United States,2021-06-08,2010,TV-MA,151 min,Thriller,French,7.4,485233,96.62,128.22,62.3,0,good
+s387,TV Show,The Recruit 387,Director E,Canada,2024-05-07,2012,TV-MA,35 min,Animation,French,7.9,252678,44.88,102.24,78.1,1,good
+s388,Movie,The Lincoln Lawyer 388,Director E,Mexico,2019-02-21,2017,R,103 min,Documentary,Korean,8,97059,29,118.87,71.7,0,good
+s389,Movie,The Irishman 389,Director F,South Korea,2019-07-03,2013,PG-13,152 min,Crime,Spanish,6.1,150308,60.61,164.54,52.5,0,good
+s390,Movie,Red Notice 390,Director B,Italy,2022-05-02,2020,TV-MA,95 min,Mystery,German,9.3,129138,58.51,162.28,67.4,0,excellent
+s391,TV Show,Bird Box 391,Director E,Australia,2020-12-19,2009,PG,65 min,Horror,Korean,5.8,32470,22.48,35.73,55,5,average
+s392,Movie,The Social Network 392,Director D,Italy,2023-09-16,2007,TV-PG,78 min,Action,Japanese,7.2,531725,65.95,216.56,68.4,0,good
+s393,TV Show,Don't Look Up 393,Director B,Italy,2017-11-01,2004,R,37 min,Mystery,Korean,5.3,287967,8.71,34.94,56.1,4,average
+s394,Movie,Wednesday 394,Director A,Australia,2025-09-21,2014,TV-G,153 min,Adventure,German,7.2,263771,89.21,166.56,57.1,0,good
+s395,Movie,Extraction 395,Director D,Italy,2017-03-23,2016,TV-MA,132 min,Fantasy,Japanese,9,262657,83.33,335.26,74,0,excellent
+s396,Movie,Damsel 396,Director C,Australia,2019-04-07,2006,TV-MA,131 min,Adventure,Spanish,8.8,488757,72.85,130.24,62.9,0,excellent
+s397,TV Show,The Gray Man 397,Director D,Spain,2024-02-07,2002,G,57 min,Drama,Spanish,9,577949,25.67,83.66,63.7,2,excellent
+s398,Movie,The Gray Man 398,Director A,India,2017-01-04,2014,TV-14,107 min,Adventure,Italian,8.3,176960,59.69,186.8,73.8,0,good
+s399,TV Show,The Karate Kid 399,Director D,United States,2021-11-15,2002,PG-13,70 min,Romance,Spanish,7.8,172666,88.59,433.72,60.6,7,good
+s400,Movie,You 400,Director B,India,2024-08-16,2005,PG-13,166 min,Thriller,English,8.3,472935,11.13,20.05,62.2,0,good
+s401,TV Show,The Intern 401,Director F,Germany,2021-02-21,2000,G,56 min,Documentary,Italian,9,254433,67.5,55.63,65.9,8,excellent
+s402,Movie,Bridgerton 402,Director B,United States,2025-11-22,2007,TV-PG,145 min,Drama,Spanish,8.7,222723,51.5,157.16,58.9,0,excellent
+s403,TV Show,Money Heist 403,Director F,Australia,2016-12-25,2010,PG-13,28 min,Sci-Fi,German,8.1,645774,52.95,82,70.6,2,good
+s404,Movie,Money Heist 404,Director A,Canada,2019-05-10,2024,G,116 min,Action,Hindi,5.5,453081,67.61,140.48,54.8,0,average
+s405,TV Show,The Old Guard 405,Director E,India,2021-11-28,2010,G,51 min,Adventure,French,5.7,770175,85.02,286.57,60,4,average
+s406,TV Show,Red Notice 406,Director D,United Kingdom,2021-11-22,2008,R,61 min,Adventure,French,7.3,769605,111.62,377.28,63.5,6,good
+s407,Movie,The Umbrella Academy 407,Director D,France,2016-04-08,2003,TV-MA,134 min,Romance,German,8.8,843403,113.33,120.12,75,0,excellent
+s408,Movie,Army of the Dead 408,Director C,United States,2023-03-08,2000,TV-14,100 min,Animation,German,5.5,319870,124.82,198.74,45.7,0,average
+s409,TV Show,The Recruit 409,Director D,United States,2022-05-19,2023,PG-13,64 min,Sci-Fi,Spanish,8.8,710139,100.68,162.58,71.3,1,excellent
+s410,TV Show,The Karate Kid 410,Director C,Japan,2019-10-04,2017,TV-MA,54 min,Thriller,German,7.4,597385,111.7,115.64,66.8,7,good
+s411,TV Show,The Mitchells vs. the Machines 411,Director D,United Kingdom,2017-09-03,2002,TV-14,42 min,Family,French,7.5,179031,44,104.54,63.4,1,good
+s412,TV Show,6 Underground 412,Director B,Japan,2016-05-09,2022,PG,42 min,Action,Hindi,6.8,874749,14.98,67.16,68.1,7,good
+s413,Movie,Arcane 413,Director C,Germany,2018-04-07,2024,PG,86 min,Mystery,German,7.3,529344,80.99,56.47,50.6,0,good
+s414,Movie,Lucifer 414,Director A,Canada,2023-08-03,2016,TV-MA,91 min,Animation,Hindi,6.9,911819,38.52,28.6,57.3,0,good
+s415,TV Show,The Recruit 415,Director B,Canada,2017-02-26,2001,PG,58 min,Fantasy,German,7.9,225039,7.59,30.25,59.9,5,good
+s416,TV Show,Over the Moon 416,Director B,Japan,2017-04-26,2021,TV-PG,42 min,Fantasy,German,9.3,591810,23.11,29.6,76.3,3,excellent
+s417,Movie,Sex Education 417,Director D,United States,2025-01-06,2022,PG-13,111 min,Drama,Italian,6.5,940584,104.19,132.11,49.1,0,good
+s418,Movie,Murder Mystery 418,Director F,Italy,2020-04-20,2003,G,81 min,Horror,German,8.2,939570,17.33,36.89,69.6,0,good
+s419,TV Show,Manifest 419,Director F,Germany,2023-12-30,2006,TV-14,67 min,Sci-Fi,French,7.2,143197,116.97,464.85,48.1,2,good
+s420,TV Show,Murder Mystery 420,Director F,Spain,2018-08-07,2015,TV-PG,39 min,Sci-Fi,Italian,9.1,416122,104.03,352.78,65.8,3,excellent
+s421,Movie,The Crown 421,Director B,Japan,2017-04-07,2015,TV-14,119 min,Documentary,Hindi,6.4,370549,87.2,339.95,55.5,0,good
+s422,Movie,The Night Agent 422,Director D,France,2019-05-22,2025,TV-14,143 min,Romance,Korean,6.2,260528,84.05,244,52.4,0,good
+s423,TV Show,The Old Guard 423,Director F,Australia,2020-11-18,2025,G,61 min,Comedy,Italian,8,86678,67.62,121.16,72,6,good
+s424,Movie,The Night Agent 424,Director D,Spain,2017-12-22,2014,G,114 min,Animation,English,5.7,858610,172.15,150.02,49.7,0,average
+s425,Movie,Bridgerton 425,Director D,Japan,2025-12-13,2004,PG,149 min,Documentary,Italian,5.2,158852,162.78,501.51,47.4,0,average
+s426,Movie,The Umbrella Academy 426,Director C,India,2025-11-02,2021,TV-MA,115 min,Horror,Japanese,8.1,460844,55.35,204.68,72.2,0,good
+s427,TV Show,Black Mirror 427,Director A,South Korea,2020-02-21,2001,TV-G,60 min,Adventure,Japanese,9.4,120027,5.1,16.08,86.5,1,excellent
+s428,TV Show,The Karate Kid 428,Director D,Spain,2020-04-16,2022,TV-G,50 min,Action,French,5.9,150824,55.05,92.88,40.3,7,average
+s429,Movie,To All the Boys I've Loved Before 429,Director B,India,2016-02-17,2004,PG-13,84 min,Animation,Japanese,9,694886,117.41,136.38,71.8,0,excellent
+s430,TV Show,The Gray Man 430,Director A,Australia,2018-01-06,2019,G,54 min,Family,Korean,6.7,199816,68.49,184.25,53.1,7,good
+s431,TV Show,6 Underground 431,Director D,Italy,2022-02-15,2013,TV-14,61 min,Action,French,7.3,391482,8.85,8.49,49.5,6,good
+s432,Movie,The Gray Man 432,Director F,Japan,2025-12-24,2016,PG,153 min,Horror,English,8.4,706200,17.74,43.33,57.3,0,good
+s433,Movie,The Recruit 433,Director C,Canada,2021-02-02,2015,PG-13,140 min,Drama,French,6.6,375057,163.28,463.46,66.7,0,good
+s434,TV Show,The Sea Beast 434,Director C,Germany,2023-01-21,2001,TV-14,55 min,Action,Hindi,6.5,778199,70.88,252.09,56.9,3,good
+s435,TV Show,The Mitchells vs. the Machines 435,Director E,Italy,2017-06-26,2008,PG-13,64 min,Animation,Italian,8.4,638152,36.65,68.87,59.9,5,good
+s436,Movie,Arcane 436,Director A,United Kingdom,2024-10-10,2008,PG-13,164 min,Family,Italian,7.5,39697,44.04,57.48,57.3,0,good
+s437,TV Show,Klaus 437,Director F,Canada,2020-04-18,2024,TV-14,40 min,Drama,Spanish,7.7,887725,88.49,132.96,58.9,8,good
+s438,TV Show,The Gray Man 438,Director D,United States,2019-05-19,2015,PG,55 min,Mystery,Italian,7.2,157200,48.68,183.21,59.9,4,good
+s439,TV Show,The Lincoln Lawyer 439,Director F,Canada,2023-08-29,2016,TV-PG,27 min,Crime,French,9.3,457760,110.54,384.37,78.9,2,excellent
+s440,TV Show,The Witcher 440,Director E,Spain,2022-07-20,2020,PG-13,50 min,Romance,English,8.4,622322,93.91,370.59,76,8,good
+s441,Movie,Murder Mystery 441,Director C,South Korea,2016-02-18,2002,TV-MA,127 min,Drama,Hindi,7.1,235074,19.39,19.49,64.4,0,good
+s442,Movie,Dark 442,Director F,Australia,2023-02-26,2019,PG-13,90 min,Comedy,Spanish,8.9,141217,128.04,136.74,69.4,0,excellent
+s443,TV Show,The Queen's Gambit 443,Director C,Canada,2023-05-29,2014,PG-13,29 min,Mystery,Hindi,7,705007,111.11,217.87,64.8,8,good
+s444,Movie,Sex Education 444,Director D,South Korea,2020-05-10,2012,TV-G,117 min,Action,Italian,8.7,191572,179.28,288.13,69.5,0,excellent
+s445,Movie,The Witcher 445,Director A,India,2024-08-14,2017,TV-14,130 min,Horror,French,9.1,755151,40.87,127.07,67.8,0,excellent
+s446,TV Show,Over the Moon 446,Director D,Australia,2021-07-31,2000,TV-MA,34 min,Fantasy,Italian,6.3,739061,112.28,403.24,47.3,1,good
+s447,TV Show,Glass Onion 447,Director E,Spain,2025-06-19,2012,TV-PG,29 min,Animation,French,8.7,510483,5.38,25.86,60.9,4,excellent
+s448,Movie,Extraction 448,Director C,Mexico,2023-04-04,2020,R,86 min,Action,English,6.7,887042,67.03,263.3,54,0,good
+s449,Movie,The Lincoln Lawyer 449,Director D,Italy,2023-10-21,2009,R,124 min,Action,English,6.7,93984,161.57,494.31,65.5,0,good
+s450,Movie,The Umbrella Academy 450,Director D,United States,2022-08-25,2023,TV-MA,105 min,Romance,English,7.5,327679,89.08,75.33,61.5,0,good
+s451,Movie,The Recruit 451,Director E,United Kingdom,2017-04-29,2012,R,102 min,Comedy,English,7.2,716016,145.66,466.48,69.1,0,good
+s452,Movie,Nimona 452,Director A,United Kingdom,2023-05-02,2015,TV-MA,77 min,Crime,Hindi,5.4,740363,85.88,359,48.7,0,average
+s453,Movie,The Gray Man 453,Director B,France,2016-09-18,2018,TV-PG,179 min,Mystery,Japanese,7.8,650533,147.51,154.19,56.4,0,good
+s454,Movie,The Night Agent 454,Director B,Spain,2022-06-17,2021,TV-14,144 min,Comedy,French,8.6,806351,26.44,102.11,58,0,excellent
+s455,TV Show,Lucifer 455,Director F,Australia,2023-10-23,2005,TV-G,48 min,Mystery,Spanish,5.4,109823,55.45,259.94,52.6,3,average
+s456,TV Show,The Crown 456,Director D,Italy,2016-01-27,2002,PG-13,25 min,Thriller,Spanish,7.8,302514,111.51,420.2,61.6,3,good
+s457,TV Show,The Karate Kid 457,Director E,India,2021-01-18,2016,PG,51 min,Romance,Japanese,5.4,193744,112.88,379.76,50.6,4,average
+s458,Movie,Stranger Things 458,Director D,Mexico,2017-04-26,2006,R,142 min,Crime,English,8.9,570940,175.87,530.04,72.9,0,excellent
+s459,Movie,The Umbrella Academy 459,Director A,United States,2017-09-03,2025,TV-PG,162 min,Crime,Korean,7.3,172520,152.19,632.32,64.5,0,good
+s460,TV Show,Red Notice 460,Director D,Japan,2022-12-01,2010,TV-14,54 min,Comedy,Korean,7.5,170722,17.01,17.36,69.2,1,good
+s461,TV Show,The Sea Beast 461,Director B,India,2022-07-02,2018,R,45 min,Adventure,Japanese,6.6,821814,27.86,101.49,43.8,7,good
+s462,TV Show,The Umbrella Academy 462,Director D,Spain,2016-10-28,2007,PG-13,55 min,Sci-Fi,Korean,6.1,644037,11.25,29.59,49.1,8,good
+s463,TV Show,The Karate Kid 463,Director D,France,2018-04-08,2008,PG-13,46 min,Mystery,German,6.4,121506,8.69,27.71,62.2,3,good
+s464,TV Show,Breaking Bad 464,Director D,South Korea,2017-10-04,2019,G,65 min,Family,Italian,6.2,436694,71.48,223.13,60.7,3,good
+s465,Movie,Sex Education 465,Director E,United Kingdom,2020-10-19,2023,TV-MA,169 min,Documentary,English,7.1,238210,157.32,246.45,68.9,0,good
+s466,TV Show,Money Heist 466,Director D,Germany,2024-08-14,2023,R,57 min,Comedy,English,8.7,735494,53.96,132.53,79.8,1,excellent
+s467,TV Show,The Old Guard 467,Director F,Germany,2017-06-27,2006,TV-MA,47 min,Sci-Fi,Italian,5.3,706534,32.49,162.31,38.6,5,average
+s468,Movie,Over the Moon 468,Director F,India,2020-07-18,2022,TV-G,98 min,Adventure,German,7.2,669170,142.59,291.55,45.6,0,good
+s469,Movie,Damsel 469,Director F,India,2020-10-10,2009,TV-PG,171 min,Adventure,English,7.5,838071,50.02,214.57,53.6,0,good
+s470,TV Show,The Adam Project 470,Director A,Japan,2017-03-30,2001,R,49 min,Action,German,6.8,684658,58.52,56.86,57.5,6,good
+s471,Movie,Peaky Blinders 471,Director B,Spain,2021-05-13,2020,TV-PG,169 min,Crime,Japanese,9.3,224984,169.17,484.24,82.7,0,excellent
+s472,Movie,Sex Education 472,Director F,Japan,2020-03-07,2002,PG,119 min,Sci-Fi,German,8.8,498002,82.53,210.92,77.6,0,excellent
+s473,Movie,Murder Mystery 473,Director C,India,2025-11-29,2006,PG-13,133 min,Sci-Fi,Spanish,6,85685,17.54,37.25,39,0,average
+s474,Movie,Squid Game 474,Director A,Canada,2020-09-02,2009,R,162 min,Comedy,English,6.7,470420,98.38,109.68,61.5,0,good
+s475,TV Show,Breaking Bad 475,Director C,Australia,2022-06-28,2013,PG-13,46 min,Mystery,French,7.5,580111,60.91,219.07,60,6,good
+s476,TV Show,You 476,Director E,United Kingdom,2021-06-06,2007,PG,48 min,Action,Spanish,6.7,483073,93.52,93.4,67.4,5,good
+s477,Movie,6 Underground 477,Director B,Japan,2018-09-01,2005,TV-MA,89 min,Animation,German,5.7,278056,9.32,17.1,43.6,0,average
+s478,Movie,Lupin 478,Director D,United Kingdom,2021-01-10,2011,G,144 min,Romance,Spanish,5.7,31135,175.63,470.9,44.5,0,average
+s479,TV Show,Stranger Things 479,Director E,Italy,2023-11-29,2020,G,43 min,Romance,Hindi,8.4,606596,108.04,526.41,73.2,8,good
+s480,TV Show,The Sea Beast 480,Director C,United States,2017-07-25,2001,R,68 min,Horror,Korean,8.8,472636,40.43,100.54,68,2,excellent
+s481,TV Show,The Mitchells vs. the Machines 481,Director C,Australia,2016-04-02,2006,TV-MA,30 min,Animation,German,9.4,418583,82.86,399.55,68.5,8,excellent
+s482,Movie,Extraction 482,Director D,Japan,2025-07-29,2022,TV-14,129 min,Thriller,Italian,6.4,373422,67.79,139.24,47.5,0,good
+s483,TV Show,Nimona 483,Director E,Australia,2020-12-17,2025,TV-14,43 min,Action,Korean,7,944973,97.65,476.09,55.2,3,good
+s484,TV Show,Manifest 484,Director D,Italy,2019-10-05,2016,PG-13,29 min,Thriller,Spanish,9.1,439649,15.17,38.22,65.5,7,excellent
+s485,TV Show,The Lincoln Lawyer 485,Director A,United Kingdom,2021-07-02,2017,PG,27 min,Crime,Italian,7.6,490964,100.98,209.68,54.9,5,good
+s486,TV Show,Narcos 486,Director C,Australia,2018-01-04,2013,G,56 min,Horror,Japanese,7.3,74966,8.27,33.18,62.6,4,good
+s487,TV Show,The Queen's Gambit 487,Director B,Spain,2025-03-05,2022,G,32 min,Adventure,Spanish,8.8,175757,63.94,205.64,74.1,6,excellent
+s488,Movie,Lupin 488,Director F,India,2019-01-21,2001,R,121 min,Mystery,Spanish,6.7,308936,76.67,318.73,49.5,0,good
+s489,Movie,Klaus 489,Director C,Mexico,2024-06-09,2019,TV-PG,96 min,Comedy,German,8.8,723240,98.78,395.37,80,0,excellent
+s490,Movie,Lucifer 490,Director B,Japan,2021-10-23,2004,R,111 min,Family,Korean,6.7,175948,68.4,170.39,44.4,0,good
+s491,Movie,The Mitchells vs. the Machines 491,Director C,United Kingdom,2021-03-01,2013,G,84 min,Horror,German,5.3,370124,22.75,25.29,38.8,0,average
+s492,TV Show,Ozark 492,Director B,India,2024-05-07,2000,TV-G,32 min,Adventure,Hindi,8.2,327361,19.8,73.57,57,4,good
+s493,Movie,Wednesday 493,Director A,Germany,2021-06-06,2024,TV-14,171 min,Crime,English,5.3,696838,78.76,107.57,44.3,0,average
+s494,TV Show,Wednesday 494,Director A,India,2016-02-12,2021,PG-13,31 min,Family,French,9.1,198757,110.81,184.24,78.9,2,excellent
+s495,TV Show,Roma 495,Director B,Italy,2017-10-19,2011,R,57 min,Crime,Spanish,8.7,805319,63.06,68.55,58,4,excellent
+s496,Movie,Klaus 496,Director D,Mexico,2017-02-08,2023,TV-14,102 min,Action,German,7.2,737045,165.84,650.1,61.5,0,good
+s497,TV Show,The Lincoln Lawyer 497,Director D,Spain,2021-10-07,2006,PG,39 min,Fantasy,English,5.7,120674,17.98,88.74,47.6,7,average
+s498,TV Show,Bridgerton 498,Director E,France,2017-04-18,2015,PG,49 min,Family,Japanese,8.2,886946,57.55,223.98,65.6,5,good
+s499,Movie,The Umbrella Academy 499,Director D,Japan,2021-05-02,2025,TV-14,161 min,Comedy,Spanish,8.1,709743,67.4,43.8,55.6,0,good
+s500,TV Show,Extraction 500,Director D,India,2022-08-15,2022,R,31 min,Family,Japanese,6.7,628861,12.44,60.9,64.4,3,good
